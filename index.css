@@ -1,0 +1,13 @@
+.js-title {
+  color: aqua;
+}
+.form,
+.greeting {
+  display: none;
+}
+.showing {
+  display: block;
+}
+.body {
+  background-color: rgb(218, 39, 39);
+}
